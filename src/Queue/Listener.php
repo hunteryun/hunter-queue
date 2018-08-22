@@ -3,7 +3,7 @@
 namespace Hunter\Queue;
 
 use Closure;
-use think\Process;
+use Hunter\Process;
 
 class Listener
 {

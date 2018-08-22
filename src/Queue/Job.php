@@ -3,7 +3,6 @@
 namespace Hunter\Queue;
 
 use DateTime;
-use Hunter\Config;
 
 abstract class Job
 {
